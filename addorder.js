@@ -1,3 +1,5 @@
+let hello = "Hello world"
+
 function doGet(request){
     //
      var custid = request.parameter.custid
